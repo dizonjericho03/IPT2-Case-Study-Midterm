@@ -4,4 +4,4 @@ IPT2 Midterm Case Study
 Group Members: 
 Jericho E. Dizon,
 Angelica S. Lampano,
-Niño Jesus M. Caisip,
+Niño Jesus M. Caisip
